@@ -16,8 +16,7 @@
 // Declare app
  const app = {}
 
-
- const app.init = () => {
+ app.init = () => {
      // start server
      server.init();
  }
