@@ -1,4 +1,4 @@
-#NODE Masterclass
+# NODE Masterclass
 ## Assignment 01
 
 ### Aim
@@ -25,7 +25,7 @@ For production:
 ```
 
 
-** Send POST request to: http://localhost:3000/hello in this format**
+** Send POST request to: http://localhost:3000/hello in this format **
 Adjust endpoint accordingly if needed.
 
 ```
